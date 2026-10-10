@@ -12,13 +12,13 @@
 
   <h1>Zelene</h1>
 
-  <p><strong>CREATE · CONNECT · EARN</strong></p>
+  <p><strong>CREATE  CONNECT  EARN</strong></p>
   <p><strong>Building real utility for creators and communities.</strong></p>
 
   <p>
-    <a href="https://zelene.org">Website</a> ·
-    <a href="https://x.com/zeleneweb3">X</a> ·
-    <a href="https://t.me/zeleneofficial">Telegram</a> ·
+    <a href="https://zelene.org">Website</a>
+    <a href="https://x.com/zeleneweb3">X</a>
+    <a href="https://t.me/zeleneofficial">Telegram</a>
     <a href="https://www.youtube.com/@ZeleneWeb3">YouTube</a>
   </p>
 </div>
