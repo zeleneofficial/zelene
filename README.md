@@ -5,8 +5,8 @@
 
 <div align="center">
   <img
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvpijN1UdRfXS1TrDK-C0Y-hJW7PKCc1LgaTnmR7kpsV6b6K1ffyC2PAE&amp;s=10"
-    alt="Zelene — temporary cover image"
+    src="https://zelene.org/images/zelene-social.jpg"
+    alt="Zelene cover image"
     width="860"
   />
 
@@ -17,9 +17,9 @@
 
   <p>
     <a href="https://zelene.org">Website</a>
-    <a href="https://x.com/zeleneweb3">X</a>
+    <a href="https://x.com/zeleneofficiall">X</a>
     <a href="https://t.me/zeleneofficial">Telegram</a>
-    <a href="https://www.youtube.com/@ZeleneWeb3">YouTube</a>
+    <a href="https://www.youtube.com/@zeleneofficial">YouTube</a>
   </p>
 </div>
 
