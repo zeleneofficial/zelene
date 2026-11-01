@@ -5,7 +5,7 @@
 
 <div align="center">
   <img
-    src="https://zelene.org/images/zelene-social.jpg"
+    src="https://zelene.org/images/zelene-social.webp"
     alt="Zelene cover image"
     width="860"
   />
