@@ -17,7 +17,7 @@
 
   <p>
     <a href="https://zelene.org">Website</a>
-    <a href="https://x.com/zeleneofficiall">X</a>
+    <a href="https://x.com/zelene_official">X</a>
     <a href="https://t.me/zeleneofficial">Telegram</a>
     <a href="https://www.youtube.com/@zeleneofficial">YouTube</a>
   </p>
